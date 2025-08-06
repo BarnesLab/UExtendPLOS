@@ -74,6 +74,7 @@ conda install -c conda-forge fdasrsf seaborn statsmodels numpy pandas matplotlib
    - Execute all cells to reproduce arm curl results
    - Modify data paths for knock data analysis
    - View generated plots and statistical outputs
+   - Full data is available upon request
 
 
 ### Data Format Details
