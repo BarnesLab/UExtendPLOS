@@ -29,7 +29,7 @@ This repository contains the complete analysis pipeline for our research on func
 
 - 📊 Complete functional data analysis pipeline
 - 📈 Advanced visualization with publication-ready plots  
-- 🔬 Statistical modeling using Partial Least Sqaures Analysis
+- 🔬 Statistical modeling using Partial Least Squares Analysis
 - 📱 Jupyter notebook interface for interactive analysis
 - 🔄 Reproducible research workflow
 - 📋 Support for both arm curl and knock movement data
